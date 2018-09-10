@@ -1,0 +1,157 @@
+@charset "utf-8";
+body
+{
+ font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+ font-size:16px;
+ line-height:1.5;
+ padding:0;
+ margin:0;
+ background-color:#f4f4f4;
+}
+.container{
+ width:80%;
+ margin:auto;
+ overflow:hidden;
+}
+ header ul
+{
+ margin:0;
+ padding:0;
+}
+.button_1
+{
+ background:rgba(211,30,33,1.00);
+ colo
+ 
+}
+header
+{
+ background:rgba(0,0,0,1.00);
+ color:rgba(255,255,255,1.00);
+ padding-top:30px;
+ min-height:70px;
+ border-bottom:rgba(255,27,27,1.00) 3px solid;
+}
+header a{
+ color:rgba(255,252,252,1.00);
+ text-decoration:none;
+ text-transform:uppercase;
+ font-size:48px;
+}
+header a:hover{
+ color:rgba(255,27,27,1.00);
+ font-weight:bold;
+}
+ #showcase
+ {
+  height:800px;
+background-image:url(../website/images/IMG_20180627_221455.jpg);
+  color:#000000;
+ 
+ }
+ @charset "utf-8";
+body
+{
+ font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+ font-size:16px;
+ line-height:1.5;
+ padding:0;
+ margin:0;
+ background-color:#f4f4f4;
+}
+.container{
+ width:80%;
+ margin:auto;
+ overflow:hidden;
+ header ul
+{
+ margin:0;
+ padding:0;
+}
+}
+header
+{
+ background:rgba(0,0,0,1.00);
+ color:rgba(255,255,255,1.00);
+ padding-top:30px;
+ min-height:70px;
+ border-bottom:rgba(255,27,27,1.00) 3px solid;
+}
+header a{
+ color:rgba(255,252,252,1.00);
+ text-decoration:none;
+ text-transform:uppercase;
+ font-size:16px;
+}
+header a:hover{
+ color:rgba(255,27,27,1.00);
+ font-weight:bold;
+}
+ #showcase h3
+ {
+ font-size:36px;
+    color:rgba(0,0,0,1.00);
+ }
+ #showcase p
+ {
+ font-size:16px;
+    color:rgba(255,247,247,1.00);
+ }
+ #updates
+ {
+ font-size:16px;
+   padding:20px;
+  background-color:rgba(0,0,0,1.00);
+  
+  
+ }
+ #updates h1
+ {
+ float:left;
+    color:rgba(255,255,255,1.00);
+   font-size:14=8px;
+ }
+ #updates form
+ {
+  float:right;
+   margin-top:28px;
+ 
+ }
+ #updates input
+ {
+  height:16px;
+ 
+ }
+ #boxes
+ {
+ background-color:#FF0000;
+ color:#000000;
+ 
+ }
+ #boxes .box
+ {
+  float:left;
+  background:
+  color:rgba(248,243,243,1.00);
+  text-align:center;
+  width:30%;
+  padding:10px;
+  
+ 
+ }
+ #boxes .box img
+ {
+  width:90px;
+  }
+  footer{
+  background-color:#000000;
+  color:#FFFFFF;
+  text-align:center;
+  padding:20px;
+  margin-top:20px;
+  }
+ 
+ 
+  
+
+
